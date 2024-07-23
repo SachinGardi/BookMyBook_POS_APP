@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="50.147" height="32.078" viewBox="0 0 50.147 32.078">
+  <g id="dollar_1_" data-name="dollar (1)" transform="translate(0 0)">
+    <path id="Path_60" data-name="Path 60" d="M43.247,175.3H.752A.751.751,0,0,1,0,174.548v-25.04a.751.751,0,0,1,.752-.752h42.5a.751.751,0,0,1,.752.752v25.04A.752.752,0,0,1,43.247,175.3Z" transform="translate(0 -143.222)" fill="#5cc45c"/>
+    <path id="Path_61" data-name="Path 61" d="M43.247,148.757H.752a.751.751,0,0,0-.752.752V173.9H44V149.509A.752.752,0,0,0,43.247,148.757Z" transform="translate(0 -143.222)" fill="#4ead4e"/>
+    <path id="Path_62" data-name="Path 62" d="M73.6,148.071h-42.5a.751.751,0,0,1-.752-.751V122.28a.751.751,0,0,1,.752-.752H73.6a.751.751,0,0,1,.751.752v25.04A.752.752,0,0,1,73.6,148.071Z" transform="translate(-27.383 -118.66)" fill="#5cc45c"/>
+    <path id="Path_63" data-name="Path 63" d="M73.6,121.528h-42.5a.751.751,0,0,0-.752.751v24.278h44V122.279A.751.751,0,0,0,73.6,121.528Z" transform="translate(-27.383 -118.66)" fill="#4ead4e"/>
+    <path id="Path_64" data-name="Path 64" d="M106.016,118.784h-42.5a.751.751,0,0,1-.752-.752V92.993a.752.752,0,0,1,.752-.752h42.5a.751.751,0,0,1,.751.752v25.04A.752.752,0,0,1,106.016,118.784Z" transform="translate(-56.621 -92.241)" fill="#5cc45c"/>
+    <path id="Path_65" data-name="Path 65" d="M461.193,92.241H456.51v26.543h4.683a.752.752,0,0,0,.752-.751V92.992A.752.752,0,0,0,461.193,92.241Z" transform="translate(-411.798 -92.241)" fill="#4ead4e"/>
+    <path id="Path_66" data-name="Path 66" d="M92.2,139.7a3.415,3.415,0,0,0-3.055-3.055.179.179,0,0,1-.16-.179V121.849a.179.179,0,0,1,.16-.179,3.415,3.415,0,0,0,3.055-3.055.179.179,0,0,1,.179-.16h32.077a.179.179,0,0,1,.179.16,3.415,3.415,0,0,0,3.055,3.055.179.179,0,0,1,.16.179V136.47a.179.179,0,0,1-.16.179,3.415,3.415,0,0,0-3.055,3.055.179.179,0,0,1-.179.16H92.376A.179.179,0,0,1,92.2,139.7Z" transform="translate(-80.267 -115.889)" fill="#a0e557"/>
+    <circle id="Ellipse_3" data-name="Ellipse 3" cx="7.261" cy="7.261" r="7.261" transform="translate(20.885 6.009)" fill="#fff"/>
+    <text id="_" data-name="₹" transform="translate(25.073 17.414)" fill="#4ead4e" font-size="11" font-family="NotoSans-Medium, Noto Sans" font-weight="500"><tspan x="0" y="0">₹</tspan></text>
+  </g>
+</svg>
